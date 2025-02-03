@@ -1,4 +1,4 @@
-# Music Genre Prediction Using Decision Tree
+# ML-Prediction-Decision-Tree
 
 This project demonstrates how to build and persist a **Decision Tree** model for predicting music genres based on user data such as age and gender. It uses the **`sklearn`** library for model training, and **`joblib`** for model persistence. The project also includes code for visualizing the decision tree and making predictions.
 
