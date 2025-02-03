@@ -115,6 +115,7 @@ tree.export_graphviz(model, out_file='music-recommender.dot',
 ```
 
 You can open the `.dot` file in a **Graphviz viewer** to visualize the decision tree structure.
+
 **Decision Tree:**
 
 ![image alt](https://github.com/Fakhrul-Ahmed/ML-Prediction-Decision-Tree/blob/main/Decision%20%20Tree.PNG?raw=true)
